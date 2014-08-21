@@ -2,6 +2,16 @@
 
 ## Intro
 
+This is a template for experimentation completely copied to a new repo.
+Goals:
+
+1) set up angularjs
+2) set up mocha testing angularjs
+3) set up Scala play actors
+4) set up gameplay app on top of this platform 
+
+---- original content ----
+
 This template application shows how to organize your application with
 [Playframework 2](http://www.playframework.com), [WebJars](http://www.webjars.org),
 [RequireJS](http://www.requirejs.org) and [AngularJS](http://www.angularjs.org).
